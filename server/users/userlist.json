@@ -1,0 +1,21 @@
+[
+  {
+    "id": "cee34eb1-b08d-4065-850d-9e655f682a9d",
+    "username": "test",
+    "password": "test",
+    "firstName": "Test",
+    "lastName": "User"
+  },
+  {
+    "id": "b29cfcdc-8a50-4be5-a6e6-221c94e6fd93",
+    "username": "pumpkin",
+    "password": "test",
+    "firstName": "Pumpkin"
+  },
+  {
+    "id": "6323d6d0-7565-434f-a858-18a8eaaad77c",
+    "username": "monkey",
+    "password": "test",
+    "firstName": "Monkey"
+  }
+]

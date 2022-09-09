@@ -1,0 +1,13 @@
+{
+  "name": "jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "cd ./server && yarn dev",
+    "client": "cd ./client && yarn dev",
+    "dev": "yarn server & yarn client"
+  },
+  "author": "Miguel Bento",
+  "license": "MIT"
+}
